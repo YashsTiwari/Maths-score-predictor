@@ -68,5 +68,5 @@ class DataIngestion:
 #         train_data, test_data
 #     )
 
-#     modeltrainer=ModelTrainer()
+#     modeltrainer = ModelTrainer()
 #     print(modeltrainer.initiate_model_trainer(train_arr, test_arr))
